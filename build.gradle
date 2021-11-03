@@ -25,6 +25,7 @@ dependencies {
     testImplementation 'org.mockito:mockito-core'
     testImplementation 'org.assertj:assertj-core'
     implementation 'org.thymeleaf:thymeleaf:3.0.12.RELEASE'
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 }
 
 test {
